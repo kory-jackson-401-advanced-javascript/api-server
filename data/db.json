@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "school",
+      "display_name": "Code Fellows",
+      "description": "Boot Camp"
+    },
+    {
+      "name": "job",
+      "display_name": "Jobs",
+      "description": "Coding",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "school",
+      "name": "Javascript",
+      "display_name": "Back-end",
+      "descrtiption": "server application"
+    },
+    {
+      "category": "job",
+      "name": "Alaska Airlines",
+      "display_name": "E-Commerce",
+      "description": "Front-End Job",
+      "id": 2
+    }
+  ]
+}
